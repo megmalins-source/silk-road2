@@ -13,7 +13,7 @@ tags:
 
 # A caravanserai, Ribat-i Sharaf
 
-Ribat-i Sharaf solved one of the major problems for travelers along the Silk Road routes - the need for safety and security in very rural and possibly unfamiliar territory. 
+Ribat-i Sharaf is a constructed building that solved one of the major problems for travelers along the Silk Road routes - the need for safety and security in very rural and possibly unfamiliar territory. 
 
 Located in Shurlukh, Razavi Khorasan Province, Iran, it stands as a unique example as the decoration is not tiled, but the designs and build of the masonry and the carvings that decorate that masonry from the entrance to the mosque.
 

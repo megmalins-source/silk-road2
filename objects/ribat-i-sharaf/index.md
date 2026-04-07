@@ -18,12 +18,12 @@ Ribat-i Sharaf solved one of the major problems for travelers along the Silk Roa
 Located in Shurlukh, Razavi Khorasan Province, Iran, it stands as a unique example as the decoration is not tiled, but the designs and build of the masonry and the carvings that decorate that masonry from the entrance to the mosque.
 
 
-## Masonry
+## Layout
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-blushwood.png"
+caption="The floorplan of Ribat-i Sharaf. [Source](https://artofthemiddleages.com/files/original/423f1a6117fc9452828b35f852c57ba6c1949762.jpg)"
+image-path="images/ribat-i-sharaf-floorplan.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.

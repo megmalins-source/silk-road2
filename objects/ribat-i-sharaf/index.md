@@ -1,24 +1,24 @@
 ---
 author: Meg Lambert-Malins
-title: "Han Coin with Greek Inscription"
+title: "Ribat-i Sharaf"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/caravanserai-wikipedia-commons.jpg
+thumbnail: images/ribat-i-sharaf-entrance.jpg
+summary: A caravanserai, Ribat-i Sharaf dates from 1114 CE.
+geo: [36.26625230756943, 60.65537645582045]
+placename: Ribat-i-Sharaf
 tags:
   - object
 ---
 
-# Coin that is not from Bukhara
+# A caravanserai, Ribat-i Sharaf
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Ribat-i Sharaf solved one of the major problems for travelers along the Silk Road routes - the need for safety and security in very rural and possibly unfamiliar territory. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Located in Shurlukh, Razavi Khorasan Province, Iran, it stands as a unique example as the decoration is not tiled, but the designs and build of the masonry and the carvings that decorate that masonry from the entrance to the mosque.
 
 
-## Your First Section Heading
+## Masonry
 {% include images/figure.html
 class="right"
 width="48%"
